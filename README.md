@@ -1,7 +1,7 @@
 # Data-Analysis-Python
 ## Hotel Booking Cancellation Analysis
 ### Business Problem:
-In recent years, City hotel and Resort hotel have seen high cancellation rates. Each hotel is now dealing with issues such as result, including fewer revenues and less than ideal room use. Consequently, lowering cancellation rates in both hotels is the primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
+In recent years, City hotel and Resort hotel have seen high cancellation rates. Each hotel is now dealing with issues as result, including fewer revenues and less than ideal room use. Consequently, lowering cancellation rates in both hotels is the primary goal in order to increase their efficiency in generating revenue, and for us to offer thorough business advice to address this problem.
 ### Objective:
 The objective of this data analysis is to gain insights and understand the factors influencing booking cancellations, which could help hotel management and booking platforms to optimize their operations, reduce cancellation rates and identify potential opportunities for improving booking management and customer experience.
 ### Assumptions:
